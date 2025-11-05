@@ -1,10 +1,10 @@
-# ☁️ Tomorrow’s Stock Predictor – Cloud SaaS Project
+# Tomorrow’s Stock Predictor – Cloud SaaS Project
 
 This repository contains a **cloud-based stock prediction platform** and an associated **machine learning research subproject**. Together, they form a complete demonstration of building, evaluating, and deploying stock prediction models in a scalable, cloud-hosted environment.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 **Main Project:**  
 **Cloud-Based Stock Prediction Web Application**  
@@ -18,7 +18,7 @@ Both projects are interlinked — the best-performing model from the research ph
 
 ---
 
-## 🧠 Subproject 1: ML Model Evaluation
+## Subproject 1: ML Model Evaluation
 
 Located in: [`model_research/`](model_research/)
 
@@ -32,7 +32,7 @@ The primary goal: achieve better-than-random prediction performance while demons
 
 ---
 
-## ☁️ Subproject 2: Cloud SaaS Application
+## Subproject 2: Cloud SaaS Application
 
 Located in: [`cloud_app/`](cloud_app/)
 
@@ -49,7 +49,7 @@ Expected features:
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 User -> Web Interface -> Backend API -> ML Model -> Cloud Services
 
 Cloud SQL (user data) + Cloud Storage (model) -> User
@@ -57,7 +57,7 @@ Cloud SQL (user data) + Cloud Storage (model) -> User
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Tools / Services |
 |-------|------------------|
@@ -70,17 +70,16 @@ Cloud SQL (user data) + Cloud Storage (model) -> User
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
-🟡 **Early Development (as of Nov 2025)**  
+ **Early Development (as of Nov 2025)**  
 Data collection, feature engineering, and initial model experimentation are in progress.  
 Cloud deployment will begin in **early December 2025**.
 
-Follow progress via the `dev` branch and the `/docs` folder for updated architecture diagrams.
 
 ---
 
-## 🔜 Future Work
+## Future Work
 
 - Evaluate additional ML models (e.g., Random Forest, LSTM)
 - Integrate continuous data refresh with the cloud backend
@@ -89,17 +88,17 @@ Follow progress via the `dev` branch and the `/docs` folder for updated architec
 
 ---
 
-## 📄 References
+## References
 
 - [Rouf et al. (2021)] “Stock market prediction using machine learning techniques: a decade survey on methodologies, recent developments, and future directions.” *Electronics, 10(21), 2717.*
 - [Usmani et al. (2016)] “Stock market prediction using machine learning techniques.” *IEEE ICCOINS.*
 
 ---
 
-## 👤 Author
+## Author
 
 **Nick Karlman**  
-📅 Started: November 2025  
-📍 Hosted on: [GitHub](https://github.com/)  
-💡 Aim: To integrate ML research and cloud deployment into a cohesive SaaS product.
+Started: November 2025  
+Hosted on: [GitHub](https://github.com/)  
+Aim: To integrate ML research and cloud deployment into a cohesive SaaS product.
 
